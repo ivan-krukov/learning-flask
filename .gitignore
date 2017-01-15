@@ -2,3 +2,4 @@
 flask/
 Ex_Files_Learning_Flask
 .DS_Store
+__pycache__
