@@ -1,8 +1,9 @@
 # Flask tutorial
 
 This is a short tutorial for using Flask web application framework.
+The only purpose is to keep track of learning how to use Flask.
 
-## Deployment
+## Deployment notes
 
 This app is deployed on heroku.
 After creating a `heroku` account:
